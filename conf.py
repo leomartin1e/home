@@ -3,7 +3,7 @@ import os
 import sys
 sys.path.insert(0, os.path.abspath('.'))
 
-project = 'Trezor Documentation'
+project = 'Trezor'
 copyright = '2025, Trezor'
 author = 'Trezor Team'
 
