@@ -1,4 +1,4 @@
-Welcome to Trezor Documentation
+Trezor® Hardware Wallet | Getting Started Guide | Trezor™ Official
 ==============================
 
 .. toctree::
